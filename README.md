@@ -1,5 +1,7 @@
 # JavaScript Workshops
 
+Link to Workshop Slides: https://codewinds.com/blog/2017-08-14-midwestjs-workshop-talks.html
+
 The workshop uses an auto-build development environment to transpile ES6/7 code to ES5 with Babel and bundle with Webpack. Node.js is used to run the environment.
 
 ## Install
